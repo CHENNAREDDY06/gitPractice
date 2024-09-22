@@ -13,7 +13,7 @@ public class Main {
         System.out.println("STUVW");
         System.out.println("");
         System.out.println("xyz");
-        System.out.println("XYZ");
+        System.out.println("123");
 
 
     }
