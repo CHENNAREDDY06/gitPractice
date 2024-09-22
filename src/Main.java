@@ -12,7 +12,6 @@ public class Main {
         System.out.println("OPQR");
         System.out.println("STUVW");
         System.out.println("XYZ");
-        System.out.println("");
         System.out.println("123");
         System.out.println("456");
         System.out.println("789");
