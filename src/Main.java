@@ -6,7 +6,8 @@ public class Main {
        
         System.out.println("DEF");
 
-        System.out.println("GHIJKL");
+        System.out.println("GHI");
+
 
 
     }
