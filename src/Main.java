@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("JKLM");
         System.out.println("OPQR");
-        System.out.println("STUV");
+        System.out.println("STUVW");
 
     }
 
