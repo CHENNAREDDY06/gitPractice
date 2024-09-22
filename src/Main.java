@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello India!");
 
         System.out.println("Hello Japan...!");
+        System.out.println("Hello USA!");
 
 
     }
