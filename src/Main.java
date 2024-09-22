@@ -3,7 +3,7 @@ import java.awt.desktop.SystemSleepEvent;
 public class Main {
     public static void main(String[] args) {
         System.out.println("ABC");
-       
+
         System.out.println("DEF");
 
         System.out.println("GHI");
@@ -15,8 +15,8 @@ public class Main {
         System.out.println("xyz");
         System.out.println("123");
         System.out.println("456");
-        System.out.println("7891011");
-        
-    }
+        System.out.println("789");
+        System.out.println("10");
 
+    }
 }
